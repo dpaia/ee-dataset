@@ -4,6 +4,7 @@ This repository provides datasets for benchmarking Software Engineering realisti
 
 ## Available Datasets
 
-| Dataset Name     | Dataset File                                                                                                                                                                                                                    | Tasks count | Comment                         |
-|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|---------------------------------|
-| Java Spring      | [java-spring-swe-dataset.json](https://github.com/jetbrains-eval-lab/ee-swe-dataset/blob/main/datasets/java-spring-swe-dataset.json)                                                                                            | 107          | Java Spring tasks.              |
+| Dataset Name     | Dataset File                                                                                                                                                                                                                    | Tasks count | Comment                 |
+|------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------|
+| Java Spring      | [java-spring-swe-dataset.json](https://github.com/jetbrains-eval-lab/ee-swe-dataset/blob/main/datasets/java-spring-swe-dataset.json)                                                                                            | 87          | Java Spring tasks.      |
+| Java Spring Data | [java-spring-data-dataset.json](https://github.com/jetbrains-eval-lab/ee-swe-dataset/blob/main/datasets/java-spring-data-dataset.json)                                                                                          | 20          | Java Spring Data tasks. |
