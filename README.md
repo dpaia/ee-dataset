@@ -6,4 +6,4 @@ This repository provides datasets for benchmarking Software Engineering realisti
 
 | Dataset Name     | Dataset File                                                                                                                          | Tasks count | Comment                 |
 |------------------|---------------------------------------------------------------------------------------------------------------------------------------|-------------|-------------------------|
-| Java Spring      | [java-spring-ee-dataset.json](https://github.com/dpai-benchmark/ee-dataset/blob/main/datasets/java-spring-ee-dataset.json)            | 125         | Java Spring tasks.      |
+| Java Spring      | [java-spring-ee-dataset.json](https://github.com/dpaia/ee-dataset/blob/main/datasets/java-spring-ee-dataset.json)            | 125         | Java Spring tasks.      |
