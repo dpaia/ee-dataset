@@ -2338,6 +2338,7 @@
     "base_commit": "ce7c3f93deb53798e3842e583fecea3514e90f1e",
     "problem_statement": "Replace JUnit 4 with JUnit 5 across the test suite:\n- update dependencies\n- update test annotations",
     "version": "4.0",
+    "jvm_version": "11",
     "is_maven": true,
     "build_system": "maven"
   },
